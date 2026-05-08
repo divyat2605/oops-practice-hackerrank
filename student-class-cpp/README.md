@@ -1,6 +1,6 @@
 # Student Class in C++
 
-This project demonstrates basic Object-Oriented Programming concepts in C++ using a `Student` class.
+This code demonstrates basic Object-Oriented Programming concepts in C++ using a `Student` class.
 
 ## Concepts Used
 - Classes and Objects
@@ -31,3 +31,4 @@ carmack, john
 
 ## Platform
 Solved on HackerRank.
+[https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true]
