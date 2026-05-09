@@ -1,6 +1,6 @@
 # Solution - C++ Lower Bound STL
 
-```cpp
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
